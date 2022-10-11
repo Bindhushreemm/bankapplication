@@ -29,6 +29,10 @@ class test1 {
 	void getaccnoTest() {
 		Assertions.assertEquals(25, CustomerDao.getaccno("sohan12"));
 	}
+	@Test
+	void getbalanceTest() {
+		Assertions.assertNotEquals(70000.00, CustomerDao.balanceUser(null, 2));
+	}
 	
 	
 	
