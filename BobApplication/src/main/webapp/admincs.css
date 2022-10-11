@@ -28,11 +28,11 @@ body {
   margin-right: auto;
   margin-left: auto;
   border: 12px solid transparent;
-  border-bottom-color: #28d;
+  border-bottom-color:black;
 }
 
 .login-header {
-  background: #28d;
+  background:pink;
   padding: 20px;
   font-size: 1.4em;
   font-weight: normal;
@@ -77,17 +77,17 @@ body {
 }
 
 .login input[type="submit"] {
-  background: #28d;
+  background:pink;
   border-color: transparent;
   color: #fff;
   cursor: pointer;
 }
 
 .login input[type="submit"]:hover {
-  background: #17c;
+  background: pink;
 }
 
 /* Buttons' focus effect */
 .login input[type="submit"]:focus {
-  border-color: #05a;
+  border-color:pink;
 }
