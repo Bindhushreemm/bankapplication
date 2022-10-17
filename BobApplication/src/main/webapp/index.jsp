@@ -69,16 +69,16 @@
 					  <div class="slide_viewer">
 					    <div class="slide_group">
 					      <div class="slide">
-					      <img src="flipkartoff.png" height="340px"  width="100%">
+					      <img src="images/flipkartoff.png" height="340px"  width="100%">
 					      </div>
 					      <div class="slide">
-					       <img src="f12.jpeg" height="340px"  width="100%">
+					       <img src="images/f12.jpeg" height="340px"  width="100%">
 					      </div>
 					      <div class="slide">
-					      <img src="interest rate.png" height="340px"  width="100%">
+					      <img src="images/interest rate.png" height="340px"  width="100%">
 					      </div>
 					      <div class="slide">
-					      <img src="edu.jpg" height="340px"  width="100%">
+					      <img src="images/edu.jpg" height="340px"  width="100%">
 					      </div>
 					      
 					    </div>
@@ -128,10 +128,10 @@
 					<div class="card">
 					  <div class="content">
 					    <div class="front">
-					      <img src="goldloan.png"  width= "500px" height= "340px">
+					      <img src="images/goldloan.png"  width= "500px" height= "340px">
 					    </div>
 					    <div class="back">
-					      <img src="home.png"  width= "500px" height= "340px">
+					      <img src="images/student.jpg"  width= "500px" height= "340px">
 					    </div>
 					  </div>
 					</div>
@@ -145,7 +145,7 @@
 					<div class="check">
 					  <div class="acolumn">
 					    <div class="acard">
-					    <img src="bob1.png" height="300px" width="272px">
+					    <img src="images/bob1.png" height="300px" width="272px">
 					    <div class="overlay">
 					    <div class="text">All services at your fingertips</div>
 					  </div>
@@ -156,7 +156,7 @@
 					  </div>
 					  <div class="acolumn">
 					    <div class="acard">
-					    <img src="img12.webp" height="300px" width="272px">
+					    <img src="images/img12.webp" height="300px" width="272px">
 					    <div class="overlay">
 					    <div class="text">Digital life!making things and life easy easier and easiest.</div></div>
 					    
@@ -165,7 +165,7 @@
 					  </div>
 					  <div class="acolumn">
 					    <div class="acard">
-					  <img src="invest.jpg" height="300px" width="272px">
+					  <img src="images/invest.jpg" height="300px" width="272px">
 					    <div class="overlay">
 					    <div class="text">Invest less and grab more!</div></div>
 					  </div>

@@ -75,7 +75,7 @@
   </div>
   <div class="d-flex align-items-center justify-content-between">
 <div class="d-flex align-items-center"><input name="" type="checkbox" value="" /> <span class="pl-2 font-weight-bold" color="#DB7093">Remember Me</span></div>
-<div><a href="#" class="clr">Forget Password?</a></div>
+<!--  <div><a href="#" class="clr">Forget Password?</a></div>-->
 </div>
    <div class="pb-2">
   <input type="submit" class="btn btn-dark w-100 font-weight-bold mt-2" background-color="#DB7093" value="Submit!">

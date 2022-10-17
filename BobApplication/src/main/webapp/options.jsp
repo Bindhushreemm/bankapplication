@@ -173,7 +173,7 @@ String id = request.getParameter("id");
     <div id="profile-pic-change">
     <img src="viewprofile.jsp?id=<%=id%>" id="photo">
     <input type="file" id="file">
-    <label for="file" id="uploadBtn">Choose Photo</label></div>
+    <label for="file" id="uploadBtn"></label></div>
     <script src="app.js"></</script>
    
     
